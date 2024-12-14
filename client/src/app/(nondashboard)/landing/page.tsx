@@ -9,6 +9,7 @@ import { Skeleton } from "@/components/ui/skeleton";
 import { useGetCoursesQuery } from "@/state/api";
 import { useRouter } from "next/navigation";
 import CourseCardSearch from "@/components/CourseCardSearch";
+// import { useUser } from "@clerk/nextjs";
 
 const LoadingSkeleton = () => {
   return (
@@ -53,7 +54,6 @@ const Landing = () => {
       scroll: false,
     });
   };
-  console.log("courses", courses);
   if (isLoading) return <LoadingSkeleton />;
 
 
