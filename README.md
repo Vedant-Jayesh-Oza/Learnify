@@ -48,6 +48,6 @@ Welcome to Learnify, a robust Learning Management System built with modern serve
 ![cicd pipeline](https://github.com/user-attachments/assets/ec655664-d4fa-41d5-a90f-a96ece53cd48)
 
 # AWS Architecture 
-![cicd pipeline](https://github.com/user-attachments/assets/be18e290-d2d5-49e4-98ec-93b633cfe229)
+![AWSARCHITECT](https://github.com/user-attachments/assets/9f00c47d-f7cf-4234-98e2-d5a9ccc23e93)
 
 
